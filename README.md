@@ -73,7 +73,8 @@ print("Predicted Result:",y_prednew)
 
 
 ## Output:
-![437688169-51fc69c9-d916-4664-a7cf-408370d4ef6e](https://github.com/user-attachments/assets/a3b6e916-95be-4830-8c28-448b3de98116)
+![437688169-51fc69c9-d916-4664-a7cf-408370d4ef6e](https://github.com/user-attachments/assets/62321543-bd66-4c6f-9845-1d3360bb60a6)
+
 
 
 
