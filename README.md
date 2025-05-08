@@ -73,12 +73,7 @@ print("Predicted Result:",y_prednew)
 
 
 ## Output:
-
-![Screenshot 2025-05-08 093848](https://github.com/user-attachments/assets/352a9545-e2a2-4fd9-bd67-5971ee524f52)
-
-
-
-
+![Screenshot 2025-05-08 094033](https://github.com/user-attachments/assets/86b124cc-1ebc-48ac-9104-73296622bbfb)
 
 
 
