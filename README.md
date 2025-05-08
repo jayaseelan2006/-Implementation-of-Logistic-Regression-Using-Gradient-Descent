@@ -74,7 +74,8 @@ print("Predicted Result:",y_prednew)
 
 ## Output:
 
-![Uploading 437688169-51fc69c9-d916-4664-a7cf-408370d4ef6e (1).png…]()
+![Screenshot 2025-05-08 093848](https://github.com/user-attachments/assets/352a9545-e2a2-4fd9-bd67-5971ee524f52)
+
 
 
 
